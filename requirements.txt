@@ -18,7 +18,6 @@ xgboost
 keras
 Sequential
 LSTM
-Dense
 autogluon.tabular
 TabularDataset
 TabularPredictor
