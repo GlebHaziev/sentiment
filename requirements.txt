@@ -2,8 +2,6 @@ pandas
 numpy
 data
 pandas
-urlencode
-urlopen
 time
 datetime
 openpyxl
