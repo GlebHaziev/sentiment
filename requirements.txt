@@ -11,7 +11,6 @@ stopwords
 lru_cache
 pymorphy2
 catboost
-sys
 matplotlib.pyplot
 seaborn
 tqdm
