@@ -8,7 +8,6 @@ requests
 nltk
 scikit-learn
 stopwords
-functools
 lru_cache
 pymorphy2
 catboost
