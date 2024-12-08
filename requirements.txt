@@ -2,7 +2,6 @@ pandas
 numpy
 data
 pandas
-python-urllib
 urlencode
 urlopen
 time
