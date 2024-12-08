@@ -8,7 +8,6 @@ requests
 nltk
 scikit-learn
 stopwords
-word_tokenize
 WordNetLemmatizer
 functools
 lru_cache
