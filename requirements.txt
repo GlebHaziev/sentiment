@@ -40,9 +40,9 @@ recall_score
 sklearn.ensemble
 RandomForestClassifier
 GradientBoostingClassifier
-from sklearn.svm
+sklearn.svm
 SVC
-from sklearn.naive_bayes
+sklearn.naive_bayes
 GaussianNB
 catboost
 sys
