@@ -7,8 +7,6 @@ openpyxl
 requests
 nltk
 scikit-learn
-accuracy_score
-train_test_split
 nltk.corpus
 stopwords
 nltk.tokenize
