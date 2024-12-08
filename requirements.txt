@@ -2,9 +2,8 @@ pandas
 numpy
 data
 pandas
-urllib.parse
+urllib
 urlencode
-urllib.request
 urlopen
 time
 datetime
