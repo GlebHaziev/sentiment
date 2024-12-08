@@ -8,7 +8,6 @@ requests
 nltk
 scikit-learn
 stopwords
-WordNetLemmatizer
 functools
 lru_cache
 pymorphy2
