@@ -14,8 +14,6 @@ catboost
 matplotlib
 seaborn
 tqdm
-GradientBoostingRegressor
-RandomForestRegressor
 MinMaxScaler
 xgboost
 keras.models
