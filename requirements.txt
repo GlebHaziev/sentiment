@@ -2,7 +2,7 @@ pandas
 numpy
 data
 pandas
-time
+urllib.parse
 datetime
 openpyxl
 requests
