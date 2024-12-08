@@ -11,7 +11,7 @@ stopwords
 lru_cache
 pymorphy2
 catboost
-matplotlib.pyplot
+matplotlib
 seaborn
 tqdm
 GradientBoostingRegressor
