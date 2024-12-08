@@ -7,7 +7,6 @@ openpyxl
 requests
 nltk
 scikit-learn
-TfidfVectorizer
 RandomForestClassifier
 accuracy_score
 train_test_split
