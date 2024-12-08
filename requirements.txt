@@ -7,11 +7,8 @@ openpyxl
 requests
 nltk
 scikit-learn
-nltk.corpus
 stopwords
-nltk.tokenize
 word_tokenize
-nltk.stem
 WordNetLemmatizer
 functools
 lru_cache
