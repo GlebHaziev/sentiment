@@ -7,7 +7,6 @@ openpyxl
 requests
 nltk
 scikit-learn
-RandomForestClassifier
 accuracy_score
 train_test_split
 nltk.corpus
@@ -19,14 +18,6 @@ WordNetLemmatizer
 functools
 lru_cache
 pymorphy2
-LogisticRegression
-DecisionTreeClassifier
-precision_score
-recall_score
-RandomForestClassifier
-GradientBoostingClassifier
-SVC
-GaussianNB
 catboost
 sys
 matplotlib.pyplot
