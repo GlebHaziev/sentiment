@@ -19,3 +19,9 @@ keras
 Sequential
 LSTM
 autogluon.tabular
+tpulse
+random
+httpx
+database
+traceback
+win32com.client
