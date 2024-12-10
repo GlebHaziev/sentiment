@@ -21,4 +21,4 @@ LSTM
 autogluon.tabular
 tpulse
 httpx
-pywin32_postinstall
+pywin32=308
