@@ -21,6 +21,5 @@ LSTM
 autogluon.tabular
 tpulse
 httpx
-database
 traceback
 win32com.client
