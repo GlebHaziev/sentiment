@@ -21,4 +21,4 @@ LSTM
 autogluon.tabular
 tpulse
 httpx
-win32com.client
+pywin32
