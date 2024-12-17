@@ -21,4 +21,3 @@ LSTM
 autogluon.tabular
 tpulse
 httpx
-pywin32>=300; platform_system=="Windows"
